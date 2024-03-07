@@ -26,3 +26,4 @@ if 0<=A<=10:
 else:
     print("out of range")
  
+ 
