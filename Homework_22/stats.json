@@ -1,0 +1,10 @@
+{
+    "user_with_max_purchase_quantity": [
+        "Luka"
+    ],
+    "customer_with_max_purchase_value": [
+        "Ani"
+    ],
+    "mean_cost": 10.083333333333334,
+    "mean_quantity": 4.0
+}
