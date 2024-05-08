@@ -1,0 +1,6 @@
+Giorgi,Apple,2,1.50
+Nika,Banana,3,2.25
+Salome,potato,5,2.3
+Saba,Orange,1,0.75
+Luka,Grapes,7,2.50
+Ani,tomato,6,3.5
